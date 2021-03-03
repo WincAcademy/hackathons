@@ -26,11 +26,12 @@
             {% for page in section.pages %}
             <tr>
                 <td><a class="capitalize" href="{{ page.permalink | safe }}">{{ page.title }} - meer info...</a></td>
-                <td>{{ page.extra.signup_deadline }}</td>
-                <td>{{ page.extra.event_date_start }} - {{ page.extra.event_date_end }}</td>
+                <td><strong>{{ page.extra.signup_deadline }}</strong></td>
+                <td><strong>{{ page.extra.event_date_start }}</strong> tot <strong>{{ page.extra.event_date_end
+                        }}</strong></td>
                 <td>
                     <a href="{{ page.extra.signup_link }}">
-                        <button>Aanmelden</button>
+                        <button class="signup-btn"><strong class="signup-text">Aanmelden</strong></button>
                     </a>
                 </td>
             </tr>
