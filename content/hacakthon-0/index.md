@@ -28,7 +28,7 @@ wordt het thema van de hackathon bekend gemaakt. Je kan dan alvast samen met je 
 Om klokslag 00:00 van **20 maart** gaat de hackathon van start; ieder team krijgt een repository met wat opstart-code.
 
 Op **21 maart 23:59** eindigt de hackathon en submit je jouw code naar winc. Wij zullen het in de loop van de week
-bekijken en een showcase doen we dan leukste en meest creatieve inzendingen. De winnaars krijgen naast eeuwige roem ook
+bekijken en een showcase doen van de leukste en meest creatieve inzendingen. De winnaars krijgen naast eeuwige roem ook
 nog wat veelbegeerde Winc-swag toegestuurd. 
 
 ## Hoe meld ik me aan? 
